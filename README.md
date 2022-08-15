@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmpolokoso
 - 👀 I’m interested in IoT applications primarily related to environment monitoring
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Fish Pond monitoring using mostly custom
+- 💞️ I’m looking to collaborate on Fish Pond monitoring using mostly off-the-shelf appliances
 - 📫 How to reach me: dmpolokoso@hotmail.com
 
 <!---
